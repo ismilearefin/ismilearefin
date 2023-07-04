@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Ismile Arefin Fahad</h1>
-<h3 align="center">A passionate Full Stack Developer from Bangladesh</h3>
 <img src='https://i.ibb.co/BcM98mf/Blue-Gaming-Facebook-Cover.png'/>
 
 # Introduction
