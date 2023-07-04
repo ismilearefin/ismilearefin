@@ -4,7 +4,8 @@
 
 # Introduction
 
-Hello, I'm a full-stack developer with expertise in React and Next.js. I've built over 10 projects in these technologies. I also completed a full-stack course where I ranked in the top 10% of students. I enjoy helping others build complex systems and consider myself a strong team player, having led a few projects as team leader.
+Hello, I'm a full-stack developer with expertise in React and Next.js. Highly motivated web developer with a passion for web development languages like JavaScript and creating seamless and engaging user experiences. Detail-oriented and dedicated to continuous skill improvement and staying updated with industry trends.
+I have created more than 10 projects in this technology. I completed a full-stack course, ranking in the top 10% of students. I enjoy helping others build complex systems and consider myself a strong team player, having led several projects as a team leader. Committed to collaborating with cross-functional teams to deliver exceptional results.
 
 ## My Skills
 
